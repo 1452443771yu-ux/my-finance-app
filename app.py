@@ -13,7 +13,6 @@ youthful_green_style = """
             <style>
             #MainMenu {visibility: hidden;}
             footer {visibility: hidden;}
-            header {visibility: hidden;}
             
             .stApp {background-color: #F7FBFC; color: #111111;}
             h1, h2, h3, p, label {color: #111111 !important;}
